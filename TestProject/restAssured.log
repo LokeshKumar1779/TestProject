@@ -1,0 +1,129 @@
+Request method:	POST
+Request URI:	https://api.postman.com/workspaces
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-api-key=PMAK-62243fc9b0bc19005424d6d3-8a4371809912f4b8a6fddb785a51bc1196
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "workspace": {
+        "name": "my workspace7",
+        "type": "personal",
+        "description": "this is created using rest assured"
+    }
+}
+HTTP/1.1 200 OK
+Date: Tue, 08 Mar 2022 07:01:46 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: nginx
+x-frame-options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+x-srv-trace: v=1;t=58dae5bd3f09de67
+x-srv-span: v=1;s=e7bd61e43e9d9fa3
+X-RateLimit-Limit: 300
+X-RateLimit-Remaining: 299
+X-RateLimit-Reset: 1646722966
+ETag: W/"52-V7KIMqoV87NiRBC0A64UYYkqcZ0"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "workspace": {
+        "id": "206ad868-690a-4238-9613-a7330351d38a",
+        "name": "my workspace7"
+    }
+}
+Request method:	POST
+Request URI:	https://api.postman.com/workspaces
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-api-key=PMAK-62243fc9b0bc19005424d6d3-8a4371809912f4b8a6fddb785a51bc1196
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "workspace": {
+        "name": "my workspace8",
+        "type": "personal",
+        "description": "this is created using rest assured"
+    }
+}
+HTTP/1.1 200 OK
+Date: Tue, 08 Mar 2022 07:01:49 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: nginx
+x-frame-options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+x-srv-trace: v=1;t=0669934d7aa568fb
+x-srv-span: v=1;s=8c7782ed51440bd9
+X-RateLimit-Limit: 300
+X-RateLimit-Remaining: 298
+X-RateLimit-Reset: 1646722966
+ETag: W/"52-h+x7xDXvK73rLoC7zFZXdKUmVuY"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "workspace": {
+        "id": "f1497e96-2913-40cb-bbc6-f8ca592f8c89",
+        "name": "my workspace8"
+    }
+}
+Request method:	POST
+Request URI:	https://api.postman.com/workspaces
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-api-key=PMAK-62243fc9b0bc19005424d6d3-8a4371809912f4b8a6fddb785a51bc1196
+				Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "workspace": {
+        "name": "my workspace9",
+        "type": "personal",
+        "description": "this is created using rest assured"
+    }
+}
+HTTP/1.1 200 OK
+Date: Tue, 08 Mar 2022 07:01:52 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: nginx
+x-frame-options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+x-srv-trace: v=1;t=0671c309c4a06bc0
+x-srv-span: v=1;s=6e3f2b2791e26a1c
+X-RateLimit-Limit: 300
+X-RateLimit-Remaining: 297
+X-RateLimit-Reset: 1646722966
+ETag: W/"52-fHzbROLJwcyMLoCyBUkvyj9c7zE"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "workspace": {
+        "id": "c140bd22-4cee-47f0-b390-752901665bad",
+        "name": "my workspace9"
+    }
+}
