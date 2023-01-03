@@ -6,3 +6,4 @@ updating demo.txt 4t time
 updating demo.txt 5th time
 updating demo.txt 6th time
 updating demo.txt 7th time
+demo.txt updated by user2
